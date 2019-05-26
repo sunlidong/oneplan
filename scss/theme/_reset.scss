@@ -220,7 +220,6 @@ td, th {
 .pt-100      {padding-top: 100px;}
 .pt-120      {padding-top: 120px;}
 .pt-150      {padding-top: 150px;}
-.pt-170      {padding-top: 170px;}
 // padding-bottom
 .pb-0        {padding-bottom: 0px;}
 .pb-10       {padding-bottom: 10px;}
@@ -255,7 +254,6 @@ td, th {
 
 .text-italic { font-style: italic; }
 .text-white { color: #fff; }
-.text-black { color: #000; }
 .transition  { @include transition();}
 .section-full { padding: 100px 0; }
 .section-half { padding: 75px 0; }
